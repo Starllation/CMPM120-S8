@@ -2,7 +2,7 @@
 
 Charlotte Boren S8 Assignment
 
-In this game, the player looks at a group of colorful and expressive faces to find the one that matches the criteria at the top of the screen. The faces move around the screen to make locating the correct face more difficult. The player's score increases with each correct face found. 
+In this game, the player looks at a group of colorful and expressive faces to find the one that matches the criteria at the top of the screen. The faces move around the screen to make locating the correct face more difficult. The player's score increases with each correct face found! 
 
 
 A project template for creating games involving clicking faces.
